@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left">Linguagens e tecnologias</h2>
+<h3 align="left">Linguagens e Tecnologias</h2>
 
 ###
 
