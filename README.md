@@ -6,6 +6,15 @@
   <a href="https://github.com/renatochaves1999">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatochaves1999&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+ <h3 align="left">Aprendendo</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="larvel logo"/>
+ 
+</div>
 
 
 
@@ -21,6 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"/>
   <img align="right" alt="Renato-pic" height="150" style="border-radius:50px;" src="https://instagram.fopo3-2.fna.fbcdn.net/v/t51.2885-19/301131799_608894850589632_2261794294113073152_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fopo3-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=2M-Z0g_nt0UAX-I8yhb&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8l4Ja1KBd1ZZIixtx2AvZNN09tIkpXmbCC6j-neWGZGA&oe=635E010E&_nc_sid=8fd12b"">
 </div>
+
+
+
+
 
 </div>
 
