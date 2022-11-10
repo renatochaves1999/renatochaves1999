@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"/>
-  <img align="right" alt="Renato-pic" height="150" style="border-radius:50px;" src="https://instagram.fopo3-2.fna.fbcdn.net/v/t51.2885-19/301131799_608894850589632_2261794294113073152_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fopo3-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=2M-Z0g_nt0UAX-I8yhb&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8l4Ja1KBd1ZZIixtx2AvZNN09tIkpXmbCC6j-neWGZGA&oe=635E010E&_nc_sid=8fd12b"">
+  <img align="right" alt="Renato-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/206/206734.gif">
 </div>
 
 
