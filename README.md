@@ -7,7 +7,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatochaves1999&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
- <h3 align="left">Aprendendo</h2>
+ <h3 align="left">A Aprender</h2>
 
 ###
 
