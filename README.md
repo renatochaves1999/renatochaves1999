@@ -1,4 +1,3 @@
-## Ola Sou o Renato sou Estudante de Informática é gosto de desenvolver!
 
 
 
